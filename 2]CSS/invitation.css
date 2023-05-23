@@ -1,0 +1,15 @@
+h3{
+    height: 500px;
+    width: 450px;
+    border: 5px ;
+    border-color: black;
+    background-color:lightblue;
+    color: darkblue;
+    white-space:pre-wrap; /*wrap, nowrap, pre-wrap*/
+    word-wrap: break-word;
+    word-break:keep-all;
+    text-align: center; /*left, center*, justify*/
+    
+
+    
+}

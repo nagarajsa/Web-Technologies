@@ -1,0 +1,35 @@
+h1{
+    color: white;
+    background-color: black;
+  }
+
+  p::first-letter{
+    color: Silver;
+    background-color: black;
+  }
+
+  h3::first-line{
+    color: orange;
+    background-color: aqua;
+  }
+
+  h4::before{
+    content:"headlines->";
+    color: black
+  }
+
+  h5::after{
+    content:"->headlines";
+    color: black
+  }
+
+  h6::selection{
+    color: black;
+    background-color: red;
+  }
+
+  ::marker{
+    color: rgb(255, 0, 187);
+    background-color: red;
+    font-size:40px ;
+  }

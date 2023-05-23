@@ -1,0 +1,31 @@
+div{
+    height: 300px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    border: 4px solid black;
+    background-color: silver;
+    transition: all 1s ease 2s;
+    transition-property: all;
+    transition-delay: 3s;
+    
+
+}
+
+div:hover{
+    height: 500px;
+    width: 450px;
+    border: 4px groove red;
+    background-color: blue;
+    border-radius: 150px;
+    transform:rotate();
+    transform: scaleX(2);
+    transform: scaleY(2);
+    transform: skewX(90deg);
+    transform: skewY(90deg);
+
+
+
+
+
+}

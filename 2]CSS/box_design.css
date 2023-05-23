@@ -1,0 +1,13 @@
+div{
+    display: flex;
+    justify-content:space-between;
+
+}
+
+span{
+    height:300px;
+    width:300px;
+    border: 4px solid;
+    background-color: silver;
+    
+}

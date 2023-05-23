@@ -1,0 +1,9 @@
+h1{
+    width: 150px;
+    height: 100px;
+    padding: 100px 500px 200px 650px;  /*Padding is used to it takes more space around the content or TEXT, then go for padding. PADDING SYNTAX is padding:TOP RIGHT BOTTOM LEFT;*/
+    border: 5px solid;
+    border-top: 5px solid red;
+    border-bottom: 5px solid green;
+    margin: 100px 200px;
+}

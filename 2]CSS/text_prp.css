@@ -1,0 +1,9 @@
+h1{
+    color:red;
+    text-align: center;
+    border: 4pt solid;
+    border-color: aqua;
+    text-decoration: underline;
+    text-transform: capitalize;
+    text-shadow: 3px 4px 5px orange;
+}
