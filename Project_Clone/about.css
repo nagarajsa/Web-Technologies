@@ -1,0 +1,26 @@
+body
+{
+    background-image: url(https://wallpaperaccess.com/full/1385495.jpg);
+    background-repeat: no-repeat;
+    background-position: 100%;
+}
+
+
+h1{
+    background-color: black;
+    text-align: center;
+    color: orange;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 35px;
+}
+
+.demo{
+    width: 98%;
+    display: flex;
+    font-size: 25px;
+    text-align: justify;
+    margin-left: 11px;
+    margin-right: 11px;
+    font-family: sans-serif;
+}
+

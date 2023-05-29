@@ -1,0 +1,15 @@
+p{
+    width: 98%;
+    display: flex;
+    font-size: larger;
+    text-align: justify;
+    margin-left: 11px;
+}
+
+button{
+    height: 60px;
+    width: 150px;
+    background-color: black;
+    color: orange;
+    border-radius: 15px;
+}

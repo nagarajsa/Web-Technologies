@@ -1,0 +1,18 @@
+label{
+    width: 140px;
+    display:inline-block;
+    margin: 4px;
+ }
+
+ table{
+    border-radius: 30px;
+ }
+ 
+ a{
+   border: 4px;
+   background-color: black;
+   color: white;
+   text-align: center;
+   display:block;
+
+ }
